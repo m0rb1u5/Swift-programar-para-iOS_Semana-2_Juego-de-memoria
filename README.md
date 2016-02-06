@@ -1,5 +1,5 @@
 # Juego de memoria
-Tarea "Juego de memoria" del curso "Swift: programar para iOS" que se lleva en el portal Cursera.
+Tarea "Juego de memoria" del curso "Swift: programar para iOS" que se lleva en el portal Coursera.
 ## Instrucciones
 Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
 * Generar un rango de 0 a 100, incluye el número 100 en el rango.
